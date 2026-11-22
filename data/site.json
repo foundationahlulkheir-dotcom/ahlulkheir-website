@@ -1,0 +1,61 @@
+{
+  "name": "Ahlul Kheir Foundation",
+  "tagline": "Empathy in Action, Changing Lives",
+  "registration": "NGO-Q5F8JZ",
+  "founded": 2015,
+  "contact": {
+    "email": "foundationahlulkheir@gmail.com",
+    "phone": "+254 723 802 894",
+    "phoneRaw": "+254723802894",
+    "phone2": "+254 707 000 366",
+    "phone2Raw": "+254707000366",
+    "whatsapp": "254723802894",
+    "address": "Maralal Oasis, Kilimani, Nairobi, Kenya",
+    "pobox": "P.O. Box 3413-00506, Nairobi"
+  },
+  "social": {
+    "youtube": "http://www.youtube.com/@AHLULKHEIRFOUNDATION-q3w",
+    "instagram": "https://www.instagram.com/ahlulkheir__",
+    "tiktok": "https://www.tiktok.com/@ahlulkheir.foundation"
+  },
+  "donate": {
+    "mpesaPaybill": "919700",
+    "mpesaAccount": "0017223901",
+    "paypalUrl": "",
+    "usdToKes": 129
+  },
+  "campaign": {
+    "enabled": true,
+    "eyebrow": "Ramadan 1448 · 2027",
+    "title": "Pledge a family’s Ramadan, before it begins.",
+    "text": "Ramadan is expected to begin around 8 February 2027. Thirty dollars puts rice, lentils, flour, oil and dates in a family’s home for the whole month, so no one breaks their fast hungry.",
+    "date": "2027-02-08T00:00:00+03:00",
+    "fund": "ramadan"
+  },
+  "impact": [
+    { "id": "ramadan", "costUSD": 30, "one": "family fed for all of Ramadan", "many": "families fed for all of Ramadan" }
+  ],
+  "forms": {
+    "volunteerEndpoint": ""
+  },
+  "categories": {
+    "water": "Water",
+    "food": "Food relief",
+    "shelter": "Shelter",
+    "education": "Education",
+    "qurbani": "Qurbani",
+    "health": "Health & care",
+    "environment": "Environment",
+    "events": "Events"
+  },
+  "funds": [
+    { "id": "general", "name": "Where most needed", "desc": "Sadaqah: we direct it to the most urgent need" },
+    { "id": "zakat", "name": "Zakat", "desc": "Distributed to eligible recipients only" },
+    { "id": "ramadan", "name": "Ramadan food & iftar", "desc": "$30 feeds a family for the month" },
+    { "id": "water", "name": "Water & wells", "desc": "Shallow wells and emergency water trucking" },
+    { "id": "shelter", "name": "Shelter", "desc": "Safe, permanent homes for families" },
+    { "id": "madrasa", "name": "Madrasa & Islamic tuition", "desc": "Qur'anic education for children" },
+    { "id": "qurbani", "name": "Qurbani", "desc": "Eid al-Adha sacrifice shared with families" },
+    { "id": "eid", "name": "Eid gifts", "desc": "New clothes and a special meal for Eid" }
+  ]
+}

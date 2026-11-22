@@ -1,0 +1,740 @@
+{
+ "r25-elder": {
+  "src": "assets/img/r25-elder-md.webp",
+  "srcset": "assets/img/r25-elder-sm.webp 640w, assets/img/r25-elder-md.webp 1280w, assets/img/r25-elder-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwBACdASoYACAAPt1co02opSMiN/qoARAbiWgAnTKEgpgoLeatGcuCnBj1I2SRSIAA/t6UpGZT7G+JIovVoJtYfvXxtp+Wp1rgbAmXT2xhmV85Zb/iCjnFe+7vBMYx2Hr+4XA9qv8Vr06bfDSW7mvQLUyckzWmnpbRucgV1YPw5IAA",
+  "alt": "An elder stands beside his Ramadan food package in front of the 2025 distribution banner"
+ },
+ "r25-lineup": {
+  "src": "assets/img/r25-lineup-md.webp",
+  "srcset": "assets/img/r25-lineup-sm.webp 640w, assets/img/r25-lineup-md.webp 1280w, assets/img/r25-lineup-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoYABIAPu1oq08ppiOiMBgIATAdiUAVHoHy9Fgy3qjrxPSUAAD+w9yaD5pt4LDIg14W0N8/J0luXuieiurkMuyDeMlxfAGcJa8IK+1WNxH6p4ra21hCujgpDA7/K1tkm52Ip4cjs5VEAAAA",
+  "alt": "Mothers stand behind rows of food sacks and cooking-oil jerrycans, Ramadan 2025"
+ },
+ "r25-rows": {
+  "src": "assets/img/r25-rows-md.webp",
+  "srcset": "assets/img/r25-rows-sm.webp 640w, assets/img/r25-rows-md.webp 1280w, assets/img/r25-rows-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAwCdASoYABIAPu1krVAppSQisBgIATAdiWIAuy88AJ4/ASvtcbAA/pTC71338qb8U+VzvG6NiJyP6Tavv52ZHuTl31rKELOP3v3MQWrKVaaBEwYXyWmY2U0f7WwaSYAAAA==",
+  "alt": "Rows of Ramadan food packages, each topped with a yellow jerrycan of cooking oil"
+ },
+ "r25-volunteer": {
+  "src": "assets/img/r25-volunteer-md.webp",
+  "srcset": "assets/img/r25-volunteer-sm.webp 640w, assets/img/r25-volunteer-md.webp 1280w, assets/img/r25-volunteer-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYABIAPu1oqk8ppiOpsBgIATAdiWIArDMl/gAA4hDhZUoAAP6XTkFm3pgIxjr0Hn1tfzbkcHoZHUTlTqcO6JaoBganLbezheXtoC28elH62zTO3yN5yZ+85JoWBQAA",
+  "alt": "A volunteer walks between the prepared food packages"
+ },
+ "r25-handover": {
+  "src": "assets/img/r25-handover-md.webp",
+  "srcset": "assets/img/r25-handover-sm.webp 640w, assets/img/r25-handover-md.webp 1280w, assets/img/r25-handover-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQBACdASoYABIAPu1kq0+ppSOiMBgIATAdiWQAuwAJGuqW8GO3l4QfGp8gt5AA/CD/fudK5dzOs2TaOcL76/FAfSdZVihaFVxHD8G9L5he8hXHNwJtO7DiHCJYQDvyFwU5M4UsmP5mahLcN+REn/XcNT4e2Y+KAAA=",
+  "alt": "A mother collects her family’s Ramadan package"
+ },
+ "r25-team": {
+  "src": "assets/img/r25-team-md.webp",
+  "srcset": "assets/img/r25-team-sm.webp 640w, assets/img/r25-team-md.webp 1280w, assets/img/r25-team-lg.webp 1920w",
+  "w": 1120,
+  "h": 504,
+  "ratio": 2.2222,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAwCdASoYAAsALrV2u12jqampiYC0SgCdADG7HnldwFlaAP7nQKmlR7mconiZsTFh8sxYjT6AWh5yIeAFy+moGZq0Z4Rcr6FZRasAAAA=",
+  "alt": "The distribution team with stacked flour and food boxes"
+ },
+ "r25-packing": {
+  "src": "assets/img/r25-packing-md.webp",
+  "srcset": "assets/img/r25-packing-sm.webp 640w, assets/img/r25-packing-md.webp 1280w, assets/img/r25-packing-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBQCdASoYACAAPu1mq06ppaQiKA1RMB2JZACdAEVrzjKwMZXzWOas9RUfYG3oiG84vQAA/u4jmOlR10raDU4fsLA727Gk6zpZpJiaTBBb6XLGqAdZ3sO9i6cbyzY2n7dZtfxH83KEJqbaPIxeI+qCUTZoD0QjdXnz7+HkJCLG7PMWWCsmtDIrP96e/tAG8gWD2/xRwAA=",
+  "alt": "A volunteer packs rice and sugar into family sacks"
+ },
+ "r25-boxes": {
+  "src": "assets/img/r25-boxes-md.webp",
+  "srcset": "assets/img/r25-boxes-sm.webp 640w, assets/img/r25-boxes-md.webp 1280w, assets/img/r25-boxes-lg.webp 1920w",
+  "w": 899,
+  "h": 1599,
+  "ratio": 0.5622,
+  "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBgCdASoYACsAPu1sp08ppiMiKqwBMB2JYwC90BfcWIWTCtXrGICHLvxU0yZ1JplbJyiHdcF48fSAAP4up3u1gaYjbcbGj4Ey6rFOvm5LhLfBeaRV9PPhOS+O1eXUsURLxRsAgXrpIe2WGQbWgzZOff0b717klnhNPLii7QT10GXuTIWF5aRT0qwwVQmuQQAAAA==",
+  "alt": "Boxes of supplies ready for Ramadan"
+ },
+ "r25-carry": {
+  "src": "assets/img/r25-carry-md.webp",
+  "srcset": "assets/img/r25-carry-sm.webp 640w, assets/img/r25-carry-md.webp 1280w, assets/img/r25-carry-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwBACdASoYACAAPu1qrVEppaQiqAqpMB2JQBOmZyggeoCQxxmqG6eICRP0V2GAAP7WEugTdmB/g00ImZEppek5bOlhliqOwTQPfFCNrB5NQxehIEWzplXgHXauasqnRnAc2SDC66gNbBVyTW8Sa8zyjpBFHz+ahah+43lsOskI5S1VciVSnpKwAAA=",
+  "alt": "Preparing food sacks in the courtyard"
+ },
+ "r21-banner": {
+  "src": "assets/img/r21-banner-md.webp",
+  "srcset": "assets/img/r21-banner-sm.webp 640w, assets/img/r21-banner-md.webp 1280w, assets/img/r21-banner-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQBACdASoYABIAPulcp02pJSOiN/VYASAdCWUAuKgNo5Dr/5xBB8kYTaruAsWBoADMP4rw/V4fkM0xqw1CGVIrYJmfWbYjB17/gX+aT4mi8f5U315vAVz9SmDEgtHd8YsSvvCHLmNy2rrsWHQQAAAA",
+  "alt": "Dry Food Distribution Program, Ramadhan 2021, sponsored by Jamia Mosque Nairobi"
+ },
+ "r21-jerrycans": {
+  "src": "assets/img/r21-jerrycans-md.webp",
+  "srcset": "assets/img/r21-jerrycans-sm.webp 640w, assets/img/r21-jerrycans-md.webp 1280w, assets/img/r21-jerrycans-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBQCdASoYABIAPu1mqE2ppaOiMBgMATAdiWIAtujYgVEjDRAkOESPOMn0Z/9fsxEskAD+wDQk/pzUe0lCCEdKkjI90WhE7yXVv1lFN2tu6C262FMRf5kyD9z+uUucKB4Zh1ncX0klqvDKymZ2hkIFx9BHaqck1T8TKWo4tySSBUcsKilxUngA",
+  "alt": "Cooking oil, flour and rice laid out for families"
+ },
+ "r21-crowd": {
+  "src": "assets/img/r21-crowd-md.webp",
+  "srcset": "assets/img/r21-crowd-sm.webp 640w, assets/img/r21-crowd-md.webp 1280w, assets/img/r21-crowd-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASoYABIAPu1eqk6ppKOiMBgMATAdiWUAwc7yRDrCDbwVboPsRSSV4/+TQ6NQAPzg0cOf9LM4146MPy9UZYKQqXs7G69PJfU2FgfRgLh/XfYFeSs+eQ81UoZYAD6mgWtAy4cjy4hk+GygAA==",
+  "alt": "Families gather under an acacia tree as packages are handed out"
+ },
+ "r21-elder": {
+  "src": "assets/img/r21-elder-md.webp",
+  "srcset": "assets/img/r21-elder-sm.webp 640w, assets/img/r21-elder-md.webp 1280w, assets/img/r21-elder-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwBACdASoYABIAPuFgqE2opaQiMAwBEBwJYwCw7BTayXamHceHEpVbrNhygADLPqBmj8tRN23F2A8ft9zlRzdOq5KkLSJzrCcYdFnwc9NA3q3wWlVHINyrApMWNjaLcVPEkSebsEqngZObIqV024AA",
+  "alt": "An elderly mother rests beside the food packages"
+ },
+ "r21-women": {
+  "src": "assets/img/r21-women-md.webp",
+  "srcset": "assets/img/r21-women-sm.webp 640w, assets/img/r21-women-md.webp 1280w, assets/img/r21-women-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwBACdASoYABIAPuFUpU2opCOiN/qoARAcCWQAVbmHkBQbYnRa/fyR0KNsAAD+8Cgrpe8NHGYOomRp/H+ChZaeysUpGtWC9tVqZWnMdSzAVa9pSrtDfcStIn5PQOBphMqRCHyUNSWiUOukZEVzQ2AA",
+  "alt": "Women of the community at the 2021 distribution"
+ },
+ "r21-stack": {
+  "src": "assets/img/r21-stack-md.webp",
+  "srcset": "assets/img/r21-stack-sm.webp 640w, assets/img/r21-stack-md.webp 1280w, assets/img/r21-stack-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwBACdASoYABgAPu1orU8ppiQiMBgIATAdiUATpmq4nRb6izzASLAMbgBXeH5FFAAA/h0rtRnpPlYfPfZgrZRW1ZRPS//GiHypFPsb1vuxkvmI8Da8HsWx753ZjDn8KilYRqFUVxsknUPtRfLf69OiVHsh74lgOSL5o3tRH9Lk2myF3YAAAA==",
+  "alt": "The Ahlul Kheir Women Group with stacked food supplies"
+ },
+ "r21-handover": {
+  "src": "assets/img/r21-handover-md.webp",
+  "srcset": "assets/img/r21-handover-sm.webp 640w, assets/img/r21-handover-md.webp 1280w, assets/img/r21-handover-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBQCdASoYABgAPu1ipk4ppaMiMBgMATAdiWgAnTMceWgIHLUTFr8mkHSnyBp5BC2diADiaXzEqo1BNhiPdQuik/PPzX1Dwm3AzAEua7kBNnH6yFWWpaN6mZViM0PT7DykarvmGvFZf2rYXswWN9dUz8HtOxLSdT+RBq6SS5F//V6m/853LpXFXI9ALPPDjJZCWnG3uFOy3y3vqi7KYAAA",
+  "alt": "A volunteer hands a package to a mother"
+ },
+ "r21-red": {
+  "src": "assets/img/r21-red-md.webp",
+  "srcset": "assets/img/r21-red-sm.webp 640w, assets/img/r21-red-md.webp 1280w, assets/img/r21-red-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACQBQCdASoYABgAPu1qrE8ppiQiMBgIATAdiWoAnTKEgUgQHj55nC0vJXujTJqi1ysZZwdcgAD3yjPMaEtV+BMAasIntSUJjRPxZHN8yVymYvH9oniRntU2n2rDeFCyrksbr6VXxGKAuLG0mwEWnPRGV9y01QbduqpYmCVJJKi8wbZmSbf4+mgqEb+uf7lJC9EDdLpYFwAQMR84l+vWTAAA",
+  "alt": "A mother in red receives food on the grass"
+ },
+ "r21-lineup": {
+  "src": "assets/img/r21-lineup-md.webp",
+  "srcset": "assets/img/r21-lineup-sm.webp 640w, assets/img/r21-lineup-md.webp 1280w, assets/img/r21-lineup-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBQCdASoYABgAPu1srlCppiQiqAqpMB2JYgC1CSAErVr5wLdDUlY6YR7US46XEMZgAP6VC5b9IlTtPUNdm6MQy22OXmOqccLsbFzICV/CW0+N/GDNCb26ik2sTFB78wkcqdpHID310smPKa8KjoM7YXmDTDk2kSd8pZnLlhYttC3qq5NKHtvmK1wlKl+0QAA=",
+  "alt": "Recipients stand behind their packages"
+ },
+ "r21-wall": {
+  "src": "assets/img/r21-wall-md.webp",
+  "srcset": "assets/img/r21-wall-sm.webp 640w, assets/img/r21-wall-md.webp 1280w, assets/img/r21-wall-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBQCdASoYABgAPu1ysVMppqSiqAgBMB2JZACdMoMxgLqrWxQjePNRlW3R0MtZ2BgAAP6mw/vp2Rg7Hny0XarkDCursCPKxzf2u2+t4UujXSVY/yBCvwWBahH3VeireX7leVS52y0tEIJdgJ/gvb6/xLtJwCbIDEoJiAcJpIQHPqDj2k9EvyQ6IIP4/MAAAAA=",
+  "alt": "Packages arranged beneath the distribution banner"
+ },
+ "r21-vests": {
+  "src": "assets/img/r21-vests-md.webp",
+  "srcset": "assets/img/r21-vests-sm.webp 640w, assets/img/r21-vests-md.webp 1280w, assets/img/r21-vests-lg.webp 1920w",
+  "w": 750,
+  "h": 1000,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAQBgCdASoYACAAPu1orVCppaQiqAqpMB2JbACdMyVEKtU5LAVQVK1tK5bH+rb9WaAOOrh5kCQy9gAA/XR4db7SovSBihL6T1Fr8TGfaqJxtJyLOy+21oXlXBGVTfRngKCdPr4748ub6XoEP17rhE3N/hsUTH/7tE+gIGxRnQBadQbXGlv0is9T/iorYIFp0Qrljwxagmf3ppZS9rQP7/02BnOE4ikJBW1Z/QGl5NMlkJVOajaTAdalmlX4nuBNBAHUaAAA",
+  "alt": "Volunteers in high-visibility vests serving the queue"
+ },
+ "r21-gather": {
+  "src": "assets/img/r21-gather-md.webp",
+  "srcset": "assets/img/r21-gather-sm.webp 640w, assets/img/r21-gather-md.webp 1280w, assets/img/r21-gather-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASoYABIAPu1kq02ppaQiMAgBMB2JZQDCgCHcPXyYMjuyUU4ZfdvPh7AAAP7rJxYVNi4XSDS2ikYDkL/ey7n9we7DOvbmQcP1D1StC2hwEL06YjDWUckk3ajIoz860AAA",
+  "alt": "Children and parents wait beside sacks and jerrycans"
+ },
+ "r21-pano": {
+  "src": "assets/img/r21-pano-md.webp",
+  "srcset": "assets/img/r21-pano-sm.webp 640w, assets/img/r21-pano-md.webp 1280w, assets/img/r21-pano-lg.webp 1920w",
+  "w": 1040,
+  "h": 492,
+  "ratio": 2.1138,
+  "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoYAAsAPu1iqU2ppaQiMAgBMB2JagCdMoABdQ0fJV5LUn9sAADLxK7bmViIMHyrm/uNWz4cy7vh+zbXYjevWqD15tW9W6/DcQE146S4Tlgop9Hb/LsipvH86vAAAAAA",
+  "alt": "Volunteers coordinate a large distribution day"
+ },
+ "r21-wheelbarrow": {
+  "src": "assets/img/r21-wheelbarrow-md.webp",
+  "srcset": "assets/img/r21-wheelbarrow-sm.webp 640w, assets/img/r21-wheelbarrow-md.webp 1280w, assets/img/r21-wheelbarrow-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQBACdASoYABgAPu1orlCppaQiqAqpMB2JYwC7AAkW8YOqzSLkk/FnzTmzwFrdgAD+tnieCNnqd9fVaPEDZKzBpw8JgcSLIwgp84pMsjNvRtRNGEJedUKQxbmSv8veJyJghoLiTRZ7il9nhn2AIaHAAAA=",
+  "alt": "A volunteer passes food to a mother and her children"
+ },
+ "iftar-appeal": {
+  "src": "assets/img/iftar-appeal-md.webp",
+  "srcset": "assets/img/iftar-appeal-sm.webp 640w, assets/img/iftar-appeal-md.webp 1280w, assets/img/iftar-appeal-lg.webp 1920w",
+  "w": 1156,
+  "h": 867,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBQCdASoYABIAPu1cqk4ppKQiMBgMATAdiUAXugFvb8ZTDImyatdawzs5/eDnf6fje0AA+FjDIX4mYAG0ak2ImvX49gekQzsBReBA9DARqls1fJzXjXXKuaS71noAEE8HedV8fwAAAA==",
+  "alt": "Sacks of rice stacked beneath the Ahlul Kheir iftaar appeal banner"
+ },
+ "fam-mother": {
+  "src": "assets/img/fam-mother-md.webp",
+  "srcset": "assets/img/fam-mother-sm.webp 640w, assets/img/fam-mother-md.webp 1280w, assets/img/fam-mother-lg.webp 1920w",
+  "w": 901,
+  "h": 1600,
+  "ratio": 0.5631,
+  "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADwBQCdASoYACsAPu1yslKppqSipWmZMB2JQBgFAW6b+JubjcPjT4wxliAqcFFWcgtSVnK+EDBEAAD+8c7RySKrpdIh2i0XBKgL8OAQBhLoPqeOXyInFQIdn9QZIMt+yo9bDBcHoufTdc412dz325phNDjqNQzm6GzuNKu46d2H9z3mi+NzlHJgCehFj+0BcCtEqsQZaa1IFnC80yLaPl4WSaY/XkAAAAA=",
+  "alt": "A mother and her children outside their shelter with a food sack"
+ },
+ "fam-doorway": {
+  "src": "assets/img/fam-doorway-md.webp",
+  "srcset": "assets/img/fam-doorway-sm.webp 640w, assets/img/fam-doorway-md.webp 1280w, assets/img/fam-doorway-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwBACdASoYACAAPu1srlCppaQiqAqpMB2JQBWAAgvsf/wJyoxIkyqUGCWw+owv7qAA+pQuOGdha8wC+zGsEWAQhgPG9hebsIYVp5FbVJ8p+1aPGgJGYF04U23MwwHX0l5Itv4VgNg70yIzaVqgWXQiLxPuK55ojisGxieJVGntENzvwAA=",
+  "alt": "A grandmother receives food at the door of her home"
+ },
+ "fam-elder": {
+  "src": "assets/img/fam-elder-md.webp",
+  "srcset": "assets/img/fam-elder-sm.webp 640w, assets/img/fam-elder-md.webp 1280w, assets/img/fam-elder-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoYACAAPu1wr1KppiQiqAgBMB2JYgDA3EgdWjHS9F/y7uYvS5o4AOI70D2Q9ivspCD6YDj6/KjuwsfVqMTUWt/aL6k5EUdG/jbXfl0N3u1aPJR/y3MUxPNkXEFxJcJK3xeseLpMW2CuLoi450LryjsYjXHTl0hj+dpVUXFC+MYiur3ByUTMAAAA",
+  "alt": "An elder at his doorway with a delivered food parcel"
+ },
+ "fam-distribution": {
+  "src": "assets/img/fam-distribution-md.webp",
+  "srcset": "assets/img/fam-distribution-sm.webp 640w, assets/img/fam-distribution-md.webp 1280w, assets/img/fam-distribution-lg.webp 1920w",
+  "w": 1040,
+  "h": 780,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABIAPu1mrE+ppSQiMBgIATAdiWMAwoAOjhRKf4zNxMI4VHo/MzLwmwAA+usGhccTd+PqwpozxP/Jt5xsBIlL6BzKEH+sKpxtIl/jUUywSjXOakR8c9sSqFY9nvFG4AA=",
+  "alt": "Jerrycans and mattresses handed out in a rural village"
+ },
+ "fam-crowd": {
+  "src": "assets/img/fam-crowd-md.webp",
+  "srcset": "assets/img/fam-crowd-sm.webp 640w, assets/img/fam-crowd-md.webp 1280w, assets/img/fam-crowd-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABIAPulepk2pJSOiN/VYASAdCWMAVsADyLHI4dYPBT5WiymkVJCAAPyKczb97Np1Q1YCql4PBxS2BFXs7YmzIaYzHSzWWVcIDk4kdVzNs+vgg13IfwzmuGNkiL0ITx9OjanYBRRQAA==",
+  "alt": "A village gathers as food bags are shared out"
+ },
+ "fam-night": {
+  "src": "assets/img/fam-night-md.webp",
+  "srcset": "assets/img/fam-night-sm.webp 640w, assets/img/fam-night-md.webp 1280w, assets/img/fam-night-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASoYABgAPu1iqU2ppaOiMAgBMB2JQBZwA81x60u3fUK1+vl9Y6OiAAD+8rSuRndbFqK1Xr4pa7jxJYF9lbGLCc1gPTvgDJyIX7/SSzcEkGX0kt21sLLK20gGfi3wgK8Wng7VeLESJACaJNEZ2TdIAA==",
+  "alt": "A night-time delivery to a mother and her children"
+ },
+ "fam-bags": {
+  "src": "assets/img/fam-bags-md.webp",
+  "srcset": "assets/img/fam-bags-sm.webp 640w, assets/img/fam-bags-md.webp 1280w, assets/img/fam-bags-lg.webp 1920w",
+  "w": 1280,
+  "h": 960,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQBACdASoYABIAPt1WpU2opKOiN/qoARAbiWUAsOwefZwhyRsR417vGJCxdwAA/SHPv9Uysglyzi98qmSl/qQtRWR9fFSl9LBW1RcpYyy93Hs0+kr/JjdSHPBdwCtCqWykX38SCtfPCJLn6gAAAA==",
+  "alt": "Elders collect blue and green food bags in the open plain"
+ },
+ "fam-purple": {
+  "src": "assets/img/fam-purple-md.webp",
+  "srcset": "assets/img/fam-purple-sm.webp 640w, assets/img/fam-purple-md.webp 1280w, assets/img/fam-purple-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBQCdASoYABgAPu1kq06ppaOiKA1RMB2JaACdMoPIBjgHdopfSClZYkzRciFqfoTjWauAAP7tqri5Ml5FF9N6D410qWLCNVLTJEFNxDeud1hB80GIkpXBCOiexkEoXqNarmQw8yh0vrGEYi5RnpDDDDyl/V8Mbq1NBsdD37qj1N6dVqtaB/lBPtE0nBbv+BDQXBgOTvX0kAAA",
+  "alt": "A mother stands beside her makeshift home with her food bags"
+ },
+ "fam-hut": {
+  "src": "assets/img/fam-hut-md.webp",
+  "srcset": "assets/img/fam-hut-sm.webp 640w, assets/img/fam-hut-md.webp 1280w, assets/img/fam-hut-lg.webp 1920w",
+  "w": 780,
+  "h": 1040,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADwBACdASoYACAAPu1cq02ppKQiMBgMATAdiWIAuwAwkVy1xARo85bhJaTdNo1WB4AA/uI+Hc6aDTr2tkXHKJ5WTvfWl17gH597A6VxWnnSnJ+4EafONBWnFtnXdcDOOxcTMOmZxfATEaGl8RkNN6g/XNRpkRwoEWjrqraJLQ0pBu2viq9CdApjincQJexXAAA=",
+  "alt": "A mother and children outside a traditional grass hut"
+ },
+ "fam-elders-walk": {
+  "src": "assets/img/fam-elders-walk-md.webp",
+  "srcset": "assets/img/fam-elders-walk-sm.webp 640w, assets/img/fam-elders-walk-md.webp 1280w, assets/img/fam-elders-walk-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACQBACdASoYABgAPulep02pJSOiN/VYASAdCUAABIKWgxNjwHLAHN006M8wHQAA/uqW1tTcAbIQA/VzvoGyix29Yo7isni9snzS1JhIsiScnfm4luv9kXujeEsqRmjgWjPFNz738s76oV8ihzFYvsdqhm5bS4XUpOMtKgzynFNn7HgAAAA=",
+  "alt": "Elders walk home with their food bags under a wide sky"
+ },
+ "fam-selfie": {
+  "src": "assets/img/fam-selfie-md.webp",
+  "srcset": "assets/img/fam-selfie-sm.webp 640w, assets/img/fam-selfie-md.webp 1280w, assets/img/fam-selfie-lg.webp 1920w",
+  "w": 1152,
+  "h": 864,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBQCdASoYABIAPuFgpU2opaOiN/VYARAcCWUAygAMMVV7IcAUfL7BF+M2LzLC0x29KZgA/oxV9QEjJ9Mfp6m9QfFCk+hrI5Q6Oo5Do9S6UDs+5WkDoGfvMAocaIRvS6PBUIoM9X3Q6ZC1gAA=",
+  "alt": "A volunteer with a grandmother and her granddaughter"
+ },
+ "fam-shelter": {
+  "src": "assets/img/fam-shelter-md.webp",
+  "srcset": "assets/img/fam-shelter-sm.webp 640w, assets/img/fam-shelter-md.webp 1280w, assets/img/fam-shelter-lg.webp 1920w",
+  "w": 768,
+  "h": 1024,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBQCdASoYACAAPuFeqk2opSQiMAwBEBwJQBg5ivz7KfhfTE0fVzyBpPs/ndKFx+tbgAD+3+yaj6QmvVLsv7rH4JtsOTrF+Mq2EcChaoRU4tjtTWlhwGGTkbGy7Hl97ERT1vvbh2gucfXCAQcIAQ/oThi7iWobC9LqKqLEpUOhU7PaYZQvx+t8pbXA9FvDJiso0V1TwAA=",
+  "alt": "A volunteer visits a family beside their shelter"
+ },
+ "fam-elder-help": {
+  "src": "assets/img/fam-elder-help-md.webp",
+  "srcset": "assets/img/fam-elder-help-sm.webp 640w, assets/img/fam-elder-help-md.webp 1280w, assets/img/fam-elder-help-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBQCdASoYABgAPuViqE2pJaQiMAwBIByJQBAe4LUSpx/t0ig0obabOqcmv07l40oAAP7ExsPFZSZGhPWpjjGOoz7WJfRrCAtxaKicTzx+aRSS5pJuyofui5hb6sIKUQPKqEzgkbBN1R3EGrm0kdfBZRH6O4zx9nlB/P97WvdNeRws0W3POm38aVyKCnfQAAA=",
+  "alt": "Volunteers support an elderly woman"
+ },
+ "wc-girl": {
+  "src": "assets/img/wc-girl-md.webp",
+  "srcset": "assets/img/wc-girl-sm.webp 640w, assets/img/wc-girl-md.webp 1280w, assets/img/wc-girl-lg.webp 1920w",
+  "w": 768,
+  "h": 1024,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBQCdASoYACAAPu1srlCppiQiqAqpMB2JQBOkH+Awjz00JhHCUnFIIwNP89h+OQAPw31hAAD+Wa97qZhIrZoWf2uMZg869aYrWDLbU4xAyrgjYXz7mWs9Nl65faQk3krW9kwbOQC5AfG9/wedBJNsXRhogO6wAMfWFTuIpsOXUrzWpCLQAA==",
+  "alt": "A young girl in her new wheelchair"
+ },
+ "wc-visit": {
+  "src": "assets/img/wc-visit-md.webp",
+  "srcset": "assets/img/wc-visit-sm.webp 640w, assets/img/wc-visit-md.webp 1280w, assets/img/wc-visit-lg.webp 1920w",
+  "w": 768,
+  "h": 1024,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBQCdASoYACAAPu1kq08ppSOiMBgIATAdiUAXZCdwlEefb/l906jq9jZN4H94vDKS32OrgAD+8+jT+c33b99q16gVRc9R6nt9m4HQVmzR5vr2hrCcx7jSwdoJk+LY6UIeOn51Rf1he89CQyGt95QpoWxcGSEwpeZjl5K4D8kuqfBG9MhTYLPMAlIuiDAA",
+  "alt": "A volunteer visits the girl and her new wheelchair"
+ },
+ "water-truck": {
+  "src": "assets/img/water-truck-md.webp",
+  "srcset": "assets/img/water-truck-sm.webp 640w, assets/img/water-truck-md.webp 1280w, assets/img/water-truck-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBQCdASoYACAAPulcpk2pJSOiN/VYASAdCWIAnTLPPCCKJXwH529ElQb7W+TirnOOYdVygADgHFZjdLTR/h7wOMWGO06bOa+Fz9Z3/Ay5RWbXgluELaoH7eEyRecFJsyAVGlO4G5zppobLU5HcgcykF1JKzkWrzq0Yu5uCmNKVpUCXI84n2Hx/7grlJ+gAAA=",
+  "alt": "Families queue with jerrycans at the clean-water tanker"
+ },
+ "water-queue": {
+  "src": "assets/img/water-queue-md.webp",
+  "srcset": "assets/img/water-queue-sm.webp 640w, assets/img/water-queue-md.webp 1280w, assets/img/water-queue-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBACdASoYACAAPu1sq1EppiOiqAqpMB2JQBOgBQt7kJVrtvu0hUN7G01+uAD9Rr5JtftR5wACik5/mybWpHMklLJe+KZlAGnrCGUPyCqLV3Y9h6Bj1mP1tfWwAJfnXgbDQcwxVcnZ+p0gf6jlXtVHOmYqbSlIhnswIAAA",
+  "alt": "Women and children line up for clean water"
+ },
+ "water-drums": {
+  "src": "assets/img/water-drums-md.webp",
+  "srcset": "assets/img/water-drums-sm.webp 640w, assets/img/water-drums-md.webp 1280w, assets/img/water-drums-lg.webp 1920w",
+  "w": 720,
+  "h": 1280,
+  "ratio": 0.5625,
+  "lqip": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADwBgCdASoYACsAPu1qqFAppiOiqqoBMB2JaACpJ2vulH76Viyg35f2A5HvusLqCgzkzYDgfJX5vF+hXYwqUwgAAP703BFML1CbN4/ZgM4BNQF1f8BHCzWYNKlSB46E5WleKPdhWM7C0ZfQw+8t855/A23Hj+rxF/0TYTNH/2Ko1DT6gqqNxLQFCcvAATMF4oVL5/1jE+amgOdwKEu0MkpH5IwxIeB9IjndgnGsYYdmNjRnClJQpcTgOr5/vqauJeint4F9ORx7yUgoxRwTj6oc709RbAAA",
+  "alt": "Filling blue water drums in the village"
+ },
+ "water-banner": {
+  "src": "assets/img/water-banner-md.webp",
+  "srcset": "assets/img/water-banner-sm.webp 640w, assets/img/water-banner-md.webp 1280w, assets/img/water-banner-lg.webp 1920w",
+  "w": 1200,
+  "h": 1599,
+  "ratio": 0.7505,
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBQCdASoYACAAPu1uq1GppqOiqAqpMB2JQBfNH+CWDPpVX9y4CyaydB4xVuhalx8jmAAA/vjA8ZJYThtYEovp9XHdR4VY9ZRVt+AaJJUE69oSWnz0vMp2fxRnG6udPzYEWm58gal1YF/VDY3a8rocSDalPwRFhnsuyDjFdOykf1QQR8zjuhE6QAA=",
+  "alt": "Children at the Emergency Water Trucking Initiative"
+ },
+ "water-vest": {
+  "src": "assets/img/water-vest-md.webp",
+  "srcset": "assets/img/water-vest-sm.webp 640w, assets/img/water-vest-md.webp 1280w, assets/img/water-vest-lg.webp 1920w",
+  "w": 720,
+  "h": 1280,
+  "ratio": 0.5625,
+  "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAwBgCdASoYACsAPulepk2pJSOiNVgIASAdCWZg607hfgCRjeHfO0X48kqp/FEWEUJBCc/DKYGybcMgAP7V1FtD9CHQCR0fkky3oru1XODhFeVWcLJf6kQ+TatOJeAWpzT5Qqy5s25mVuNo222n01W1Cixc1Golsy6DUVufa6ymUUHzrt1wUy05DEQ7SS7I+92idbwp7Vkp2fUCnjbrj+ZhanfQ42vOPGzmxhMum85yAaSrePAVYH2PqIAAAA==",
+  "alt": "A volunteer manages the clean-water distribution"
+ },
+ "well-dig": {
+  "src": "assets/img/well-dig-md.webp",
+  "srcset": "assets/img/well-dig-sm.webp 640w, assets/img/well-dig-md.webp 1280w, assets/img/well-dig-lg.webp 1920w",
+  "w": 733,
+  "h": 1599,
+  "ratio": 0.4584,
+  "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBgCdASoYADQAPu1mrE4ppaSiMBgKATAdiWUAxcgyvveCpTUD/g3w7jl7bjmYbHvECck0U1/qRuXZxiM1AAD+VHPlled4qLHiuUk0ASmhchlJJ0Tf5+wQRMFKsZg9nYBWBvjPWkfMYAXpNEPDHHpxA2SHlLP6ZrmN9+mG1EEhIIjqavWJKWGCzA5yZG/Z1Y1DU7SpTI8WtPgSvbZpGeBW92CkEuOxjObe03+5P2GcWiNiSu5BgscWjtypF/zVkuAAAA==",
+  "alt": "Digging a shallow well in rocky ground"
+ },
+ "well-draw": {
+  "src": "assets/img/well-draw-md.webp",
+  "srcset": "assets/img/well-draw-sm.webp 640w, assets/img/well-draw-md.webp 1280w, assets/img/well-draw-lg.webp 1920w",
+  "w": 768,
+  "h": 1024,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBQCdASoYACAAPu1orE4ppiSiMAgBMB2JQBWAA8C2neDFlbUgVx3O94/AS7ZPHltuxpQAAN2JOyg18DdQ6F239lpt56UB03X5bN8/K2JDafqmcQrfHa1q/n033obm/LKiO27N1wyQKUAg13O65pLZydJh777H2okMl3lHDpUmQ5ASzg4ufRiWZMD2g3hJLTvgjwH3q3XvMtjToebCQAAA",
+  "alt": "A woman draws water from a finished well"
+ },
+ "well-team": {
+  "src": "assets/img/well-team-md.webp",
+  "srcset": "assets/img/well-team-sm.webp 640w, assets/img/well-team-md.webp 1280w, assets/img/well-team-lg.webp 1920w",
+  "w": 768,
+  "h": 1024,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBQCdASoYACAAPu1ssFCppiSiqAqpMB2JYgC7BvAEAd3e3fac13x4SlPp3XM3uc4AAP78eIl9WVsp20lr0qw8hwtJeoKfnIVJyNMwSkSjd4jeIYMWzerSG0HaVSSS2/RweCTWYMnICT5EiWkMGxZgHRZSw5sYAR31cuGHz3MAAA==",
+  "alt": "The team inspects a new well"
+ },
+ "q-flock": {
+  "src": "assets/img/q-flock-md.webp",
+  "srcset": "assets/img/q-flock-sm.webp 640w, assets/img/q-flock-md.webp 1280w, assets/img/q-flock-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASoYABIAPulepU2pJSOiMAwBIB0JQBhQAoay2eWIl7uObxxvKM7AJncgAP4X4RivtFiNWJ/Lf6bnkqpGGNjYKJ5rolItSe1iFPPxczNcwHL6uEY000ZtRADYhrIMrYq0KIlueuxZ7VTUr0oBxoyMObRouUAAAA==",
+  "alt": "Sheep and goats gathered for Eid al-Adha qurbani"
+ },
+ "q-family": {
+  "src": "assets/img/q-family-md.webp",
+  "srcset": "assets/img/q-family-sm.webp 640w, assets/img/q-family-md.webp 1280w, assets/img/q-family-lg.webp 1920w",
+  "w": 1600,
+  "h": 1200,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASoYABIAPu1mrVAppSQisBgIATAdiUAWHYF4rWIhHpTK0jwUQfDlwgAA/uBsNIMw2cXzepxkMXTd7PAOnHM8r427tpa3XoZT28rzRH/hZpZWzN1iLEcR6ZxBcDonKyNoQfI+QSatbR2HvAAA",
+  "alt": "A family receives their qurbani goat"
+ },
+ "q-women": {
+  "src": "assets/img/q-women-md.webp",
+  "srcset": "assets/img/q-women-sm.webp 640w, assets/img/q-women-md.webp 1280w, assets/img/q-women-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBQCdASoYACAAPuFeqE2opSQiMAwBEBwJQBibCifTflQOx/vE8M2Jj7mcqmZmXHwwqgAA/fadtp4RzD7UCKmwk5drsYPJ1rEO6L0UmK7NjTs0i74lBSGpNrP8Lc9pjxMZbIs6NgsA8dBsqMvJJR0k2HN725w6/nFY+UdqvktGDwaLDCT2yeGifThJNKRogAAAAA==",
+  "alt": "Two volunteers with a qurbani goat"
+ },
+ "q-goats": {
+  "src": "assets/img/q-goats-md.webp",
+  "srcset": "assets/img/q-goats-sm.webp 640w, assets/img/q-goats-md.webp 1280w, assets/img/q-goats-lg.webp 1920w",
+  "w": 750,
+  "h": 1000,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBQCdASoYACAAPt1YpE2opSOiN/qoARAbiWYAnTMOgieUpMe8QzfOMcHTxoQVDLtmAAD+fRsPFcTuJi564PXAzT8m2eVGfbyw+5X8mW2iXLFvIZiBhq9o+8dQHJT9i1ZMH+djHX13ShyjXUJ59y50HB3kyT3zymCxB6vNVIo4AAAA",
+  "alt": "Goats ready for distribution"
+ },
+ "q-family2": {
+  "src": "assets/img/q-family2-md.webp",
+  "srcset": "assets/img/q-family2-sm.webp 640w, assets/img/q-family2-md.webp 1280w, assets/img/q-family2-lg.webp 1920w",
+  "w": 1200,
+  "h": 1600,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBQCdASoYACAAPu1sr1CppiQiqAqpMB2JQBYj4wAv/FOYr9ZeAbJaTdW/CQzMseGzVUAA/lhzrXdiFSxU2y4CwvhyWd07CCLmuzIJFrJczFSjquHOaexpd3Sz/iTA2niyGCJIsaPQ5i3p5h1cnXYK8K5t0flFcvDP8Pm1QAA=",
+  "alt": "A family with their goat beside their home"
+ },
+ "home-blue": {
+  "src": "assets/img/home-blue-md.webp",
+  "srcset": "assets/img/home-blue-sm.webp 640w, assets/img/home-blue-md.webp 1280w, assets/img/home-blue-lg.webp 1920w",
+  "w": 780,
+  "h": 1040,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASoYACAAPt1gqU2opiQiMAwBEBuJZAC7Lzi4AJcklJa2mwBUSSIlDSIwAP79w5sOOf9n3ktaIfpVQU09LH+Wyi5qsb8l6/y+XxdUszJ8qfbLznTgexsO6pqqlv/99eEA+jSeBPc+KgXND56Vj+urhtiiJj8AAA==",
+  "alt": "A newly built home with blue walls and a new door"
+ },
+ "home-blue2": {
+  "src": "assets/img/home-blue2-md.webp",
+  "srcset": "assets/img/home-blue2-sm.webp 640w, assets/img/home-blue2-md.webp 1280w, assets/img/home-blue2-lg.webp 1920w",
+  "w": 780,
+  "h": 1040,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQBQCdASoYACAAPu1oqU+ppiOiKA1RMB2JZgCdMspsG0AAa4G8+fuUdEeWTD/kSYUeWJy4BGUAAP7x235CQkcLf3nF1WeOUwX8u0OVG1F53k+4ZI+lQ1J4jpoKFCxwCz6qQaQnoAPjvm8t7yU4I0Dy+moj00LINTlf9+bHv31lhmqAAAA=",
+  "alt": "The finished blue home"
+ },
+ "home-yellow": {
+  "src": "assets/img/home-yellow-md.webp",
+  "srcset": "assets/img/home-yellow-sm.webp 640w, assets/img/home-yellow-md.webp 1280w, assets/img/home-yellow-lg.webp 1920w",
+  "w": 867,
+  "h": 1156,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASoYACAAPuVgpk2pJaOiN/VYASAciWMAuwAQ7MqR3DmSyPs6WcDPGM4AAP3jrHVGtyOGyj5ze7SuHZEmV6eLoQo5SPyPOOD0pciH7E+50ndp+3ttvy4q5ALjqnc64DrXFQBzGVlzeK97zsTkgAA=",
+  "alt": "A newly completed home with green doors"
+ },
+ "home-family": {
+  "src": "assets/img/home-family-md.webp",
+  "srcset": "assets/img/home-family-sm.webp 640w, assets/img/home-family-md.webp 1280w, assets/img/home-family-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBQCdASoYACAAPu1qrVEppaQiqAqpMB2JZgCo9BEh0i0d2RE3haPIj/mGLoEH1rPQAAD+wvNA8obMscQI/tsy3snOt//nD1LAKPOyVoPKgxEFs83dJbuXsVgUnba9s70AL46y4bhXVaoYeWYf/CeXX2rXSquNz8shYWmas8U5cB/D0oV2AAAA",
+  "alt": "The team with a mother and her children at their new home"
+ },
+ "shack-car": {
+  "src": "assets/img/shack-car-md.webp",
+  "srcset": "assets/img/shack-car-sm.webp 640w, assets/img/shack-car-md.webp 1280w, assets/img/shack-car-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASoYACAAPt1cpU2opSOiN/qoARAbiUAXYAQ7AyrRr0KSTR8Q4rrRdXSM8f1gAP4TpSaf4923VlpVo96wwiTa50ShK12JRNqmn4d16fJX3n021QhaFsiJg1ciVSG+kV+cb8PO7s+Vtg1W/zIY44AAAA==",
+  "alt": "The family’s makeshift hut, patched with sacks, tarpaulin and scrap"
+ },
+ "shack-tarp": {
+  "src": "assets/img/shack-tarp-md.webp",
+  "srcset": "assets/img/shack-tarp-sm.webp 640w, assets/img/shack-tarp-md.webp 1280w, assets/img/shack-tarp-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACwBQCdASoYACAAPu1srVEppiQiqAqpMB2JQBWABp8NHqevn4HXaLOLh7d6du3FmRYCJVmR3AAA/pA1by1bI/JdNpiMULNLhdFfqDTHL0Iuoelfe5oMqvBntoXnnZQW+pziFIXpuHn8SQ//g0J4J8GVIQmazvbDqprGPl9MIllyyaBrE3CUHgwMwQ6AAA==",
+  "alt": "A makeshift shelter of sticks and tarpaulin"
+ },
+ "shack-tree": {
+  "src": "assets/img/shack-tree-md.webp",
+  "srcset": "assets/img/shack-tree-sm.webp 640w, assets/img/shack-tree-md.webp 1280w, assets/img/shack-tree-lg.webp 1920w",
+  "w": 900,
+  "h": 1600,
+  "ratio": 0.5625,
+  "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABwBQCdASoYACsAPu1opU2ppiMiMBVdUTAdiWIAsOwuabTmJuuDBGS6vVX+o0BpTvtv2g3wAP6iJsvUZu6FPx/Q39evT1r5s3jClhGLDdrgbTJPcm6M3qZAtAiiZgScj5eFsKfIfN1WAZ1bmmLaL2NycKOtllRBzSYw5gczyXJK0CZQpdCkxjekZUcKoN4BbpSngAAA",
+  "alt": "A patched shelter beneath an acacia tree"
+ },
+ "shack-door": {
+  "src": "assets/img/shack-door-md.webp",
+  "srcset": "assets/img/shack-door-sm.webp 640w, assets/img/shack-door-md.webp 1280w, assets/img/shack-door-lg.webp 1920w",
+  "w": 720,
+  "h": 1600,
+  "ratio": 0.45,
+  "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBQCdASoYADUAPt1coE2opSMiM+qpEBuJZQDH5Cmk2D0i6m23GbTT8q6ro4zUPBMZNJKwAAD947Zl2k033VEE20XiLvWIxNj6j00AhSYyNL4vhAgrN+VeMoXPzUoA/EvP5EKhxSHA+3EUKeDHaMc5Q7wZvaLPczQAAA==",
+  "alt": "A child in the doorway of a mud home"
+ },
+ "school-front": {
+  "src": "assets/img/school-front-md.webp",
+  "srcset": "assets/img/school-front-sm.webp 640w, assets/img/school-front-md.webp 1280w, assets/img/school-front-lg.webp 1920w",
+  "w": 1599,
+  "h": 1599,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASoYABgAPt1WpU2oraOiN/qoAbAbiWMAuwAh2n63f7SmxqixmqTgLVS9AAD+3pDsdt6qbDlvu4Hrz+lHHPTCeZ2M9IYtNmeMYlWrfgFxhQMccJsVhHSZGeQC1npUo3ykqAA=",
+  "alt": "A newly built classroom block with a red roof"
+ },
+ "school-side": {
+  "src": "assets/img/school-side-md.webp",
+  "srcset": "assets/img/school-side-sm.webp 640w, assets/img/school-side-md.webp 1280w, assets/img/school-side-lg.webp 1920w",
+  "w": 1599,
+  "h": 1599,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBQCdASoYABgAPuFap02opSOiN/qoARAcCUAToARA1d1bKCMxVAZFHm08Ure20F3jpgAA/ovIsYAv0NmPc4ml10IlNOd1Lz4zRXYHghsmgakhTqMz6xQ2RcpqiXtvshLRP25lp0CBkwrae0vZkIAPfCtvNchDG8LEwiSqCNDchPNyAAA=",
+  "alt": "Side view of the new classroom block"
+ },
+ "madrasa-boys": {
+  "src": "assets/img/madrasa-boys-md.webp",
+  "srcset": "assets/img/madrasa-boys-sm.webp 640w, assets/img/madrasa-boys-md.webp 1280w, assets/img/madrasa-boys-lg.webp 1920w",
+  "w": 1280,
+  "h": 1280,
+  "ratio": 1,
+  "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYABgAPu1cq02ppKQiMBgMATAdiUAWHYBRhoPnKCm6mzhd3gAA/eZOYa7L28nK9yWFPJv/euyReB7IIfcaRV+UR9F5a/t/liuGbkLJCuq9VExw/vIE/jC/AAA=",
+  "alt": "Madrasa students in white robes and caps"
+ },
+ "madrasa-girls": {
+  "src": "assets/img/madrasa-girls-md.webp",
+  "srcset": "assets/img/madrasa-girls-sm.webp 640w, assets/img/madrasa-girls-md.webp 1280w, assets/img/madrasa-girls-lg.webp 1920w",
+  "w": 1500,
+  "h": 1000,
+  "ratio": 1.5,
+  "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOkERhgaFdJ28mJCCXIAAD+7T7lmS2qfanhZZNNJEwT3R4Eg9yY9kPhVCe46zK8tdFbuB/lJT+/QMYNS7w4/wQVy2UnLu7zYxhjWCvUdOQAAAA=",
+  "alt": "Girls receive certificates in front of their classmates"
+ },
+ "madrasa-hall": {
+  "src": "assets/img/madrasa-hall-md.webp",
+  "srcset": "assets/img/madrasa-hall-sm.webp 640w, assets/img/madrasa-hall-md.webp 1280w, assets/img/madrasa-hall-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASoYACAAPu1kqE2ppaOiMAgBMB2JZwDOdCKlGR7NwJU2j1tpsUa3fmAA98yHpVMe6+5sHIe63TyclsiTMmLx1+/mbcQTn6baYYkqupRzm8FC7IWHtz6oAA==",
+  "alt": "Fresh prayer rugs lining the madrasa hall"
+ },
+ "orphans-kits": {
+  "src": "assets/img/orphans-kits-md.webp",
+  "srcset": "assets/img/orphans-kits-sm.webp 640w, assets/img/orphans-kits-md.webp 1280w, assets/img/orphans-kits-lg.webp 1920w",
+  "w": 1280,
+  "h": 622,
+  "ratio": 2.0579,
+  "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoYAAwAPu1yrU+pp6QiMAgBMB2JQBOgBEPfQ00s/KZZZDXCQYAAzjBpC4+IBHalbWj04f7LnQrK1AT4SAN1h9xQ8ZejnhGLSDMlDSYmqdT57KlAAAA=",
+  "alt": "Children with gift bags at an orphan support event"
+ },
+ "clean-truck": {
+  "src": "assets/img/clean-truck-md.webp",
+  "srcset": "assets/img/clean-truck-sm.webp 640w, assets/img/clean-truck-md.webp 1280w, assets/img/clean-truck-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBQCdASoYACAAPuVipk2pJiOiN/VYASAciWMAuwBCKA80Gg4j7qyWrQjvB5SSK4WJXeAA/uhKqxWdSoaQezHTUNKHSMlUMrtbUtzEXEUfyB8APEjub433IMxnyELkKQPaTHgfyDK3Rg/ksRlfklFPC+M29hoj722DlkMm3VjibT3H44wMmiRpjroNAAAA",
+  "alt": "Volunteers load rubbish into a truck during a clean-up"
+ },
+ "clean-team": {
+  "src": "assets/img/clean-team-md.webp",
+  "srcset": "assets/img/clean-team-sm.webp 640w, assets/img/clean-team-md.webp 1280w, assets/img/clean-team-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBQCdASoYACAAPu1gq02ppaQiMBgMATAdiWMAtRtkAbNAvlJVWtOPVDm+u5c2gqfL3iY8AAD+0yknBSUYryDD9FM6q2PSUuKBvCltPG+hapIROPC9QwDTGsAdySAa02/xbNSlo9idhjO4zxgJa3rSmVfKMngo3Nlm2XkM+3RUWD0z9ODCi8jkXhwogAAA",
+  "alt": "The clean-up team clearing a dumping site"
+ },
+ "clean-1": {
+  "src": "assets/img/clean-1-md.webp",
+  "srcset": "assets/img/clean-1-sm.webp 640w, assets/img/clean-1-md.webp 1280w, assets/img/clean-1-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBQCdASoYACAAPuVgqE2pJaQiMAwBIByJYwClrB6CdTFtAvDxo2Gu4TydiMsGmjahvAAA/rMkp7JSndGLLKPiW/pDLSyD3GJv+nDvs2bTqjaTAfe4oB8CxMQrKdqz0f+kAUOhyYq329AQq7Yv4u59SumJnM1cAAA=",
+  "alt": "A volunteer clears waste from the bush"
+ },
+ "clean-2": {
+  "src": "assets/img/clean-2-md.webp",
+  "srcset": "assets/img/clean-2-sm.webp 640w, assets/img/clean-2-md.webp 1280w, assets/img/clean-2-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBQCdASoYACAAPu1cqU2ppKOiN/VYATAdiWMAxNgQ2pI0aqvHRtCr5S6T5At5ZjXQAAD+FIot1qAkP+EOPrppfILBqd21F/eDYsU7RqBpXZe5i3TiKCmrzEzyYdcY0TaLSmKBDTxiGX2QOPLHU7xBnzYsbIxekvSwthCAAAA=",
+  "alt": "Collecting plastic waste"
+ },
+ "clean-3": {
+  "src": "assets/img/clean-3-md.webp",
+  "srcset": "assets/img/clean-3-sm.webp 640w, assets/img/clean-3-md.webp 1280w, assets/img/clean-3-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBQCdASoYACAAPu1kq06ppaOiKA1RMB2JQBOkK5AnMKtJys6Fr20JsP8tdlGeMj2kQAD+V3v0qrfUWCrh1Ob/lsiXaSdU49vL8A+FrEpmL9C/ezhhQCE+6yZgsO6cX3b1AYbmDO0xGJCjzgpVwluNl5sFJ+UM3HgzUls3P5Px7R24e1bfbUAA",
+  "alt": "Volunteers clearing a roadside"
+ },
+ "clean-4": {
+  "src": "assets/img/clean-4-md.webp",
+  "srcset": "assets/img/clean-4-sm.webp 640w, assets/img/clean-4-md.webp 1280w, assets/img/clean-4-lg.webp 1920w",
+  "w": 960,
+  "h": 1280,
+  "ratio": 0.75,
+  "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACQBQCdASoYACAAPuFipk2opiOiN/VYARAcCWgAnS+vA9LQ4TS7iA40Ox3pr+9p3AjaHEN6AADid2xAJVSsAz1PlxjQezOXYYfl9ENtNES+/uT2l/PMCon9yYWrRMR4/FbQUTuse6endQN6xKRXqjk0hgkA1++Z+aahs/MlOLOlpN36mIQRp0dMnatDX9uBSV3LWYuePq+UtIfYlIpbBzyhl8YfmQzkdR5NyAAA",
+  "alt": "Bagging rubbish in the neighbourhood"
+ },
+ "launch-banner": {
+  "src": "assets/img/launch-banner-md.webp",
+  "srcset": "assets/img/launch-banner-sm.webp 640w, assets/img/launch-banner-md.webp 1280w, assets/img/launch-banner-lg.webp 1920w",
+  "w": 2773,
+  "h": 4160,
+  "ratio": 0.6666,
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBgCdASoYACQAPu1mqE8ppaOiMBVaqTAdiUATpnsnyAtUXe3VbAO15Lwk3u8vQOF563/SZbl3hAAAzT+dhj1h9i+nf0Za3nAvfxQnePO8pz9ZicyeCtADUbrNxhubapGc2p/GR3tPNuXijjHCEBdo3yByXhZ7eeC+uyyou723i0mYYK69SVtKk1Bi3h1sD+xAZYsAAAA=",
+  "alt": "The Ahlul Kheir Foundation banner at the official launch"
+ },
+ "launch-brochure": {
+  "src": "assets/img/launch-brochure-md.webp",
+  "srcset": "assets/img/launch-brochure-sm.webp 640w, assets/img/launch-brochure-md.webp 1280w, assets/img/launch-brochure-lg.webp 1920w",
+  "w": 2773,
+  "h": 4160,
+  "ratio": 0.6666,
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBgCdASoYACQAPu1orVGppaQiqrgKATAdiUAWI/AQt3iwb9Ewy66TK366JjbDsZAfVQjMZpYKkQAA/vTbRdHJYouet6RLs7cUOvszizhhita28sBV2iz7GQ9aS58D3DsalaOP2sxutJyO7cqhGEZX6Nrv/y4Aq7+YP9AVuuNaziPjwSAAcgAA",
+  "alt": "The foundation brochure"
+ },
+ "launch-cert": {
+  "src": "assets/img/launch-cert-md.webp",
+  "srcset": "assets/img/launch-cert-sm.webp 640w, assets/img/launch-cert-md.webp 1280w, assets/img/launch-cert-lg.webp 1920w",
+  "w": 4160,
+  "h": 2773,
+  "ratio": 1.5002,
+  "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JbACdMoR3ACIB9MnREnbMAAD+XcNGgL1+jdT3ZGMxBPrE+VXbrvx9VwX1h0WLsqRUmXz9OeShnykD0FNXs1uUw4LSy5/QWkAAAA==",
+  "alt": "The NGO Certificate of Registration, unveiled with a red ribbon"
+ },
+ "launch-speaker": {
+  "src": "assets/img/launch-speaker-md.webp",
+  "srcset": "assets/img/launch-speaker-sm.webp 640w, assets/img/launch-speaker-md.webp 1280w, assets/img/launch-speaker-lg.webp 1920w",
+  "w": 4160,
+  "h": 2773,
+  "ratio": 1.5002,
+  "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC7L1yBfGQ4U2aRe2WE0gD+jGwrHkR/Bvg0u3lb3NtBtvOUH1QTyrp2T8sEyDr9TdbWGragU1uD+e+oDx5/JxRAAA==",
+  "alt": "A guest speaker addresses the launch"
+ },
+ "launch-award": {
+  "src": "assets/img/launch-award-md.webp",
+  "srcset": "assets/img/launch-award-sm.webp 640w, assets/img/launch-award-md.webp 1280w, assets/img/launch-award-lg.webp 1920w",
+  "w": 2773,
+  "h": 4160,
+  "ratio": 0.6666,
+  "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBgCdASoYACQAPt1YpE2opSOiNVv8ARAbiWQAnTNBPfzlA9RobMIxIrmHgjZAZI0bE6ITH/FJiNiaWwsHYAD+5yEfL51Kb57/+7GD0V00Mdnb0aVMm6hUuecv7zvaNRK07Cj9jznunNXlgMOGegtpj5H7aosTWtvPeOy3fpV1jIjpgyNw1WPRVNGMyBppo9/Sifv5tqbWQbFVEAGrPl6z/OlQWUsEekQAT5RcND0yL+lPcT1CcAAA",
+  "alt": "An appreciation certificate presented at the launch"
+ },
+ "halima-mother": {
+  "src": "assets/img/halima-mother-md.webp",
+  "srcset": "assets/img/halima-mother-sm.webp 640w, assets/img/halima-mother-md.webp 1280w, assets/img/halima-mother-lg.webp 1920w",
+  "w": 960,
+  "h": 720,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASoYABIAPu1ur1IppiQiqAgBMB2JYwCw7Ajn5Tse8+827Cd9u/Q8+5aAAP6JVNYt2U87HO8ydTVNxej8Ax2KbF7FJCyusjw+KJHRrZ4Ql1XwhEfgfzBdovXwRVN4D8jwbljjgAAA",
+  "alt": "Halima Ahmed holds her newborn baby outside her grass hut"
+ },
+ "halima-family": {
+  "src": "assets/img/halima-family-md.webp",
+  "srcset": "assets/img/halima-family-sm.webp 640w, assets/img/halima-family-md.webp 1280w, assets/img/halima-family-lg.webp 1920w",
+  "w": 960,
+  "h": 720,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwBACdASoYABIAPu1ip06ppSMiMBgMATAdiWUAv+wM8kcyews92vqL8SV1kZcMjUAAzgBiny0/8Pg8PgykziiG+2D6eHMg7XJUppNm4ahtevEiuemi92tsAAA=",
+  "alt": "Halima Ahmed with her newborn and some of her nine children"
+ },
+ "halima-inside": {
+  "src": "assets/img/halima-inside-md.webp",
+  "srcset": "assets/img/halima-inside-sm.webp 640w, assets/img/halima-inside-md.webp 1280w, assets/img/halima-inside-lg.webp 1920w",
+  "w": 960,
+  "h": 720,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASoYABIAPuVepk2pJSOiN/VYASAciWcAuwAQ75854LFKRKph/XI2mkksAAD+4yNlg4iE6EY0NOfbxzVHONzSNDHJpGftzvIGv4UFub9HrQfEDk/8Fl/ezoagiUBgAA==",
+  "alt": "Inside the family’s grass hut, where there is nothing to cook with"
+ },
+ "halima-delivery": {
+  "src": "assets/img/halima-delivery-md.webp",
+  "srcset": "assets/img/halima-delivery-sm.webp 640w, assets/img/halima-delivery-md.webp 1280w, assets/img/halima-delivery-lg.webp 1920w",
+  "w": 960,
+  "h": 720,
+  "ratio": 1.3333,
+  "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASoYABIAPuVcpk2pJSOiMAwBIByJYwDE2B0iXZaJsXqKNy/01qS68w60FjFNAAD+hiKcStNIjiqwkacDUUHxgV+gVZbZgQs18bp6skqHlQVHwOFYYiZqEP6gAvwVyFx/XOEAAA==",
+  "alt": "A volunteer unpacks food supplies for the family"
+ },
+ "halima-team": {
+  "src": "assets/img/halima-team-md.webp",
+  "srcset": "assets/img/halima-team-sm.webp 640w, assets/img/halima-team-md.webp 1280w, assets/img/halima-team-lg.webp 1920w",
+  "w": 960,
+  "h": 563,
+  "ratio": 1.7052,
+  "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JZQAAUl/jrlmpwM98y/7BAAD+kIEzJI/2wqAbbbJLeYN9bVmks2c4G21EQxmybWdO6XgAAAA=",
+  "alt": "Our team arrives at Halima Ahmed’s home"
+ }
+}
